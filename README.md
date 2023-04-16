@@ -15,7 +15,10 @@ A simple NodeJS library that allows you to get the amount of contributor earning
 ```
 
 ## Using with PHP
-```
+```php
 $earnings = shell_exec("node example 'username' 'password'");
 //Ofcourse, you need to be in the proper directory. 
 ```
+
+❤️ If you require any assistance, feel free to join <a href="https://discord.gg/y6UywbeB3U">my support Discord!</a>!<br>
+💙 If you would love to support me as an independent developer and have the means necessary, check out https://ko-fi.com/evangassman! Anything is appreciated! 
